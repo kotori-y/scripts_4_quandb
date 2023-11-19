@@ -1,0 +1,12 @@
+%mem=264GB
+%chk=[name].chk
+%nprocshared=72
+# B3LYP/def2tzvp scrf=(smd,solvent=water) pop=(mk,hirshfeld,nboread,chelp,chelpg,hly) em=gd3bj volume
+
+[name]
+
+0 1
+[geometry]
+
+$nbo bndidx $end
+

@@ -1,0 +1,11 @@
+%mem=264GB
+%chk=[name].chk
+%nprocshared=72
+# opt freq B3LYP/6-311G(d) scrf=(smd,solvent=water) scf=(qc,xqc) em=gd3bj
+
+[name]
+
+0 1
+[geometry]
+
+
